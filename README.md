@@ -10,3 +10,6 @@
   
 <h2 style=" 2px solid white; color:white;">TEAM PROFILE</h2>
 <P>BRAYDEN: ...<P>
+  
+  <h2 style=" 2px solid white; color:white;">IDEAL JOBS</h2>
+<P>...<P>
