@@ -13,3 +13,6 @@
   
   <h2 style=" 2px solid white; color:white;">IDEAL JOBS</h2>
 <P>...<P>
+
+ <h1 style="border:2px solid White;">ASSIGNMENT 1 WEBSITE LINKS</h1>
+ <P> https://braydenkearney.github.io/Assessment1/?fbclid=IwAR1Ei4rnCA_APawojnqHflyIDcoTkc0MkSRe6Leu3LPWtZzy6LdQpFTJNEQ<P>
