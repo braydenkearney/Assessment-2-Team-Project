@@ -1,0 +1,122 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#index1:hover {
+    background-color:lightskyblue;
+    font-style: italic;
+}
+
+#index1active {
+    background-color: darkcyan;
+    font-style: italic;
+}
+
+#interest1:hover {
+    background-color: yellow;
+    font-style: italic;
+}
+#interest1active {
+    font-style: italic;
+    background-color: peru;
+}
+#projectidea1:hover {
+    background-color: lightcoral;
+    font-style: italic;
+}
+
+#personalprofile1:hover {
+    background-color: green;
+    font-style: italic;
+}
+
+#idealjob1:hover {
+    background-color: orange;
+    font-style: italic;
+}
+
+#idealjob1active {
+    background-color: darkorange;
+    font-style: italic;
+}
+
+#interesth1:hover {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+#idealjobh1:hover {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+#progress1 {
+    background-color: darkgray;
+}
+
+#personalprofileactive1 {
+    background-color: lightgreen;
+    font-style: italic;
+}
+
+#profileh1:hover {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+#projectideaactive1 {
+    background-color: plum;
+    font-style: italic;
+}
+
+#projectideah1:hover {
+    font-style: italic;
+}
+
+#overview1 {
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: lightblue;
+}
+#overview1:hover {
+    background-color: lightblue;
+}
+#motivation1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#motivation1:hover {
+    background-color: lightblue;
+}
+#description1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#description1:hover {
+    background-color: lightblue;
+}
+#tools1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#tools1:hover {
+    background-color: lightblue;
+}
+#skills1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#skills1:hove {
+    background-color: lightblue;
+}
+#outcomes1 {
+    font-weight: bold;
+    background-color: lightblue;
+}
+#outcomes1:hover {
+    background-color: lightblue;
+}
+#images1 {
+    font-weight:bold;
+    background-color: lightblue;
+}
