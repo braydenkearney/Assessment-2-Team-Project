@@ -1,4 +1,4 @@
-* {
+body {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -106,7 +106,7 @@
     font-weight: bold;
     background-color: lightblue;
 }
-#skills1:hove {
+#skills1:hover {
     background-color: lightblue;
 }
 #outcomes1 {
