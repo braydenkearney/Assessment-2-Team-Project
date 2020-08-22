@@ -12,9 +12,8 @@
         <style type="text/css">
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Shade&display=swap');
 body {
-    /*font-family: Calibri, Arial, "MS Trebuchet", sans-serif;*/
-    /*font-size: 62.5%; /* This sets the default font size to 10px */
-    /* font-size: calc(1rem + (2rem - 1.4rem) * ((100vw - 300px) / (1600 - 300))); */
+    font-family: Calibri, Arial, "MS Trebuchet", sans-serif;
+    font-size: 140%; /* This sets the default font size to 10px */
     margin: 0 auto;
     /* margin:1rem; */
     max-width:960px;
@@ -45,6 +44,25 @@ span.logoletter {
     left:18px;
 }
 .logoStep {
+}
+span.imageText {
+    position:relative;
+    vertical-align:top;
+    padding-top: 30px;
+    margin-left: 60px;
+    top: 0px;
+}
+#lhs {
+    width:39%;
+    display:inline-block;
+    margin-top:20px;
+}
+#rhs {
+    width:60%;
+    display:inline-block;
+}
+#footer {
+
 }
         </style>
         <title>Peak Coders: Builder</title>
@@ -89,12 +107,32 @@ span.logoletter {
             <span class="letterBlock" style="height:150px;"><span class="logoletter">E</span></span>
             <span class="letterBlock" style="height:280px;"><span class="logoletter">R</span></span>
         </div>
-        <div>
-            <p>Build is an application designed to assist people stop procrastinating and start
+        <div style="margin-top:20px;">
+            <p>Builder is an application designed to assist people stop procrastinating and start
             getting things done. Builder does this by encouraging collaboration with friends,
-            family and workmates.</p>
+            family and workmates and rewarding you with unlocking locations in your .</p>
             <p>With Builder, you will be asked to create and manage goals. As you complete the
             tasks you set for yourself, you will be building an amazing world.</p>
+        </div>
+        <div>
+
+            <div id="lhs"><img src="builder_home.png" alt=""/></div>
+            <div id="rhs">
+                <span class="imageText">this is the home screen</span>
+            </div>
+
+            <div id="lhs"><img src="builder_wf1.png" alt=""/> </div>
+            <div id="rhs">
+                <span class="imageText">this is a task window</span>
+            </div>
+
+            <div id="lhs" style="width:69%;"><img src="builder_landscape.png" alt=""/></div>
+            <div id="rhs" style="width:29%">
+                <span class="imageText">this is the city builder</span>
+            </div>
+
+        </div>
+        <div id="footer">
             
         </div>
     </body>
